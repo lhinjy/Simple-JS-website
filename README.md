@@ -1,2 +1,5 @@
-# Simple-JS-website
-Created with CodeSandbox
+# Simple JS website
+A s(a/i)mple website to learn Javscript
+
+
+[For live preview](https://codesandbox.io/s/angry-mccarthy-ifvgd)
